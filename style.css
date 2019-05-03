@@ -22,7 +22,7 @@ a {
 
 /* Custom design */
 .banner {
-  background-image: url('../images/img.png');
+  background-image: url("img.png");
   background-size: cover;
   color: white;
   padding: 120px 0;
